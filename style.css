@@ -71,3 +71,59 @@ p {
     text-align: center;
     vertical-align: middle;
 }
+
+
+
+
+.menu{
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor:pointer;
+    z-index: 10;
+    }
+
+
+
+.links{
+    float: left;
+    color: aqua;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+
+.links:hover{
+    background-color: antiquewhite;
+    }
+
+html{
+    scroll-behavior: smooth;
+    
+}
+
+
+a{
+    text-decoration: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
