@@ -79,9 +79,10 @@ p {
     list-style: none;
     position: fixed;
     top: 10px;
-    right: 30px;
+    left: 10px;
     cursor:pointer;
     z-index: 10;
+    border-style:double;
     }
 
 
@@ -110,7 +111,18 @@ html{
 
 a{
     text-decoration: none;
-    }
+    
+
+}
+
+
+#awd{
+    
+    font-size: 50px
+}
+
+
+
 
 
 
